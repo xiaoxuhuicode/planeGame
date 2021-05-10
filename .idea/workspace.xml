@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db908a17-a83f-4529-87b5-fafb84c7497f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/environment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1maFdC1UAKhdzatbJdFTtTXkM2G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.silence.spacewar.Main" />
+      <module name="SpaceWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.silence.spacewar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db908a17-a83f-4529-87b5-fafb84c7497f" name="Default Changelist" comment="" />
+      <created>1609723879085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609723879085</updated>
+      <workItem from="1615036635248" duration="127000" />
+      <workItem from="1615185994417" duration="1246000" />
+      <workItem from="1616758132511" duration="1836000" />
+      <workItem from="1617017186138" duration="8000" />
+      <workItem from="1618295461119" duration="78000" />
+      <workItem from="1620640887446" duration="1407000" />
+      <workItem from="1620642371580" duration="2563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1317" height="3" key="GridCell.Tab.0.bottom" timestamp="1616761277964">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="3" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1616761277964" />
+    <state width="1317" height="3" key="GridCell.Tab.0.center" timestamp="1616761277964">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="3" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1616761277964" />
+    <state width="1317" height="3" key="GridCell.Tab.0.left" timestamp="1616761277964">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="3" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1616761277964" />
+    <state width="1317" height="3" key="GridCell.Tab.0.right" timestamp="1616761277964">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="3" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1616761277964" />
+    <state x="181" y="6" key="SettingsEditor" timestamp="1620642523896">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1620642523896" />
+    <state x="388" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1620642370601">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="388" y="186" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1620642370601" />
+  </component>
+</project>
